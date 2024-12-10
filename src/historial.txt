@@ -1,0 +1,7 @@
+Usuario: que carreras ofrece la universidad | Chatbot: ing.Sistemas, ing.Civil, ing.Ambiental, administracion de empresas, contaduria publica, comunicación social
+Usuario: que se necesita para ser admitido en la universidad | Chatbot: diploma de bachiller, pagar los derechos de inscripción, pruebas icfes
+Usuario: fechas de habilitaciones | Chatbot: 17 y 18 de diciembre
+Usuario: cual es la nota minima para habilitar | Chatbot: 2.0
+Usuario: que se necesita para ser representante estudiantil | Chatbot: deben ser estudiantes regulares y no podran tener vinculo laboral con la universidad durante su representacion
+Usuario: fechas de supletorios de esxamenes finales | Chatbot: 17 y 18 de diciembre
+Usuario: quien yissus | Chatbot: el mejor profesor de programacion
